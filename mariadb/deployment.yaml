@@ -20,6 +20,6 @@ spec:
         - name: MYSQL_ROOT_PASSWORD
           value: kajal123
         - name: MYSQL_DATABASE
-          value: wordpress
+          value: wordpress 
         ports:
         - containerPort: 3306
